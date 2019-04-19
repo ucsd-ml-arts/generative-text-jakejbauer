@@ -2,7 +2,11 @@
 
 Jake Bauer, jjbauer@ucsd.edu
 
-![Renditions of two generated plants: 'Bachmannia' and 'Fuzzly Virginia'](Bachmannia.jpeg, Fuzzly.jpeg)
+!['Fuzzly'](Fuzzly.jpeg)
+
+!['Bachmannia'](Bachmannia.jpeg)
+
+!['Corpus Comparison: Washington Hawthorn'](Training_rendition.jpeg)
 
 ## Abstract
 
