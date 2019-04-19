@@ -6,7 +6,7 @@ Jake Bauer, jjbauer@ucsd.edu
 
 !['Bachmannia'](Bachmannia.jpeg)
 
-!['Corpus Comparison: Washington Hawthorn'](Training_rendition.jpeg)
+!['Corpus Comparison: Washington Hawthorn'](Training_rendition.png)
 
 ## Abstract
 
@@ -31,6 +31,7 @@ Briefly decribe the files that are included with your repository:
 ## Notes
 - Because Imagined_Ecology.ipynb writes the output to a file, you will need to create a .txt file called "100-generated-plants.txt" in the same directory as the rest of the notebooks.
 
+- Artistic renditions made by myself, Jake Bauer. [Ink on cardstock, italic nib]
 
 ## Reference
 
