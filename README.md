@@ -2,7 +2,7 @@
 
 Jake Bauer, jjbauer@ucsd.edu
 
-![Renditions of two generated plants: 'Bachmannia' and 'Fuzzly Virginia'](Artistic_renditions.png)
+![Renditions of two generated plants: 'Bachmannia' and 'Fuzzly Virginia'](Bachmannia.jpeg, Fuzzly.jpeg)
 
 ## Abstract
 
