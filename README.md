@@ -21,6 +21,9 @@ Briefly decribe the files that are included with your repository:
 
 - typical-output.txt
   Contains a large amount of generated 'plant profiles'--represents the typical textual output
+  
+## Notes
+- Because Imagined_Ecology.ipynb writes the output to a file, you will need to create a .txt file called "100-generated-plants.txt" in the same directory as the rest of the notebooks.
 
 
 ## Reference
