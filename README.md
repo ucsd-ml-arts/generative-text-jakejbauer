@@ -1,6 +1,8 @@
-# Project 1 Generative Text
+# Project 1 Generative Text: "Imagined Ecology"
 
 Jake Bauer, jjbauer@ucsd.edu
+
+![Renditions of two generated plants: 'Bachmannia' and 'Fuzzly Virginia'](Artistic-Renditions.pdf)
 
 ## Abstract
 
