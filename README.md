@@ -6,7 +6,7 @@ Jake Bauer, jjbauer@ucsd.edu
 
 !['Bachmannia'](Bachmannia.jpeg)
 
-!['Corpus Comparison: Washington Hawthorn'](Training_rendition.png)
+!['Corpus Comparison: Washington Hawthorn'](Training_redition.png)
 
 ## Abstract
 
