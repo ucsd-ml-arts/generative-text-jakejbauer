@@ -8,7 +8,7 @@ The motive behind this project was to generate descriptions of plants--and that'
 
 
 ## Stylized Results
-Here are some of my renditions of the plants--two generated descriptions, and one actual plant from the corpus.
+Here are some of my renditions of the plants--two imagined from generated descriptions, and one based on an actual plant description from the corpus.
 
 
 !['Fuzzly'](Fuzzly.jpeg)
