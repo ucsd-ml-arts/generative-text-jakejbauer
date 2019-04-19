@@ -1,6 +1,6 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@ucsd.edu
+Jake Bauer, jjbauer@ucsd.edu
 
 ## Abstract
 
