@@ -6,23 +6,24 @@ Jake Bauer, jjbauer@ucsd.edu
 
 Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used.
 
+The motive behind this project was to generate descriptions of plants--and that's exactly what it does! The results aren't very 'scientific'... as anyone could easily tell that these plants often have contradictory profiles. However, this project is optimal for describing new forms of life for artists to render, or for new-ish artists like me to practice drawing imaginative flora. I must admit, most of my efforts in this project was trying, and retrying over and over to find, parse, or scrape a set of training data that provided suitable results. I started of using books and encyclopedias from open sources websites like the gutenberg collection, however (after getting awful results with the more formal texts) I eventually found that web-scraping horti.uconn.edu worked wonders. I used an RNN with only slight modifications from the baseline, training it on this data I scraped. With the improved data, I got great results. Adding in the feature of randomizing the initial-state from a massive set of plant genuses helped hone my results. 
+
 ## Files
 
 Briefly decribe the files that are included with your repository:
-- corpus.txt - your training data.
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+- Imagined_Ecology.ipynb
+  Jupyter Notebook with code to setup, train, and generate plant descriptions!
+- plant-data-final-encoded.txt
+  The set of training data that the above notebook utilizes
+- names.csv
+  A csv file containing thousands of web-scraped plant genus names--used as the initial state of the RNN to generate better 'plant profiles'
+  
 
 ## Results
 
-- A file with your generated text (.pdf, .doc, .txt). This should document your creative output.
+- typical-output.txt
+  Contains a large amount of generated 'plant profiles'--represents the typical textual output
 
-## Notes
-
-Any implementation details or notes on repeating your work. 
-
-- Does this code require other pip packages, software, etc?
-- Does it run on other platform?
 
 ## Reference
 
